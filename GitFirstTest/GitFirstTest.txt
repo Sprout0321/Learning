@@ -1,2 +1,4 @@
 Git First Test
 modity in line 2
+modify something different
+keep two changes
